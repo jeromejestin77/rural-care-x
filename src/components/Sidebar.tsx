@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heart, Home, Stethoscope, Calendar, Video, FileText, Pill, Settings, X, CloudUpload } from 'lucide-react';
+import { Heart, Home, Stethoscope, Calendar, Video, FileText, Pill, Settings, X, Cloud } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 
 export const Sidebar: React.FC = () => {
@@ -74,7 +74,7 @@ export const Sidebar: React.FC = () => {
       {/* Low-bandwidth / Offline Notice in Sidebar */}
       <div className="absolute bottom-4 left-3 right-3 p-3.5 rounded-xl bg-slate-50 border border-slate-200 text-xs">
         <div className="flex items-center space-x-2 text-slate-700 font-semibold mb-1">
-          <CloudUpload className="h-4 w-4 text-blue-600" />
+          <Cloud className="h-4 w-4 text-blue-600" />
           <span>Rural Offline-First</span>
         </div>
         <p className="text-slate-500 text-[11px] leading-relaxed">
