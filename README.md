@@ -1,4 +1,4 @@
-# 🏥 Rural Care X (रूरल केयर एक्स)
+# 🏥 Rural Care X 
 
 Rural Care X is a technology-driven healthcare and telemedicine platform engineered to solve **medical accessibility in rural and underserved areas**. The platform bridges the gap between rural communities and quality medical practitioners using **AI-powered clinical triage, real-time video consultations, electronic health records (EMR), regional multi-language localization, and low-bandwidth offline-first resilience**.
 
